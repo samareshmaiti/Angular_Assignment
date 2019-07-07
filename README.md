@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 THis is the assignment based on angular.WE created severl diffirent modules and at the end we combined them to make a single unit.
-The gitHUb link is https://github.com/samareshmaiti/Angular_Assignment.git
+The gitHUb link is  https://samareshmaiti.github.io/Angular_Assignment/.
