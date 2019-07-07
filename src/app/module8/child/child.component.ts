@@ -21,7 +21,7 @@ export class ChildComponent implements OnDestroy{
   constructor( private serviceService: ServiceService) { 
     this.subscription=serviceService.sourceConfirmed$.subscribe(
       mission =>{
-        this.mission = mission;
+       // this.mission = mission;
         this.announced=true;
         this.confirmed=false;
       }
